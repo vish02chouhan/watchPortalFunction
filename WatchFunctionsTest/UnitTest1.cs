@@ -5,8 +5,6 @@ using Microsoft.Extensions.Primitives;
 using Microsoft.Extensions.Logging.Abstractions;
 using Xunit;
 
-using watchPortalFunction;
-
 namespace WatchFunctionsTest
 {
     public class UnitTest1
